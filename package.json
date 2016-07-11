@@ -1,0 +1,17 @@
+{
+  "name": "microtask-typescript",
+  "version": "1.0.0",
+  "description": "Isolated image to run a single task under gulp for transpile typescript files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andru255",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
